@@ -1,0 +1,1 @@
+alert("Hi people! You are going to understand more about violence when you open this website. You are going to understand what is violence, why violence is bad, and how to solve violence.");
